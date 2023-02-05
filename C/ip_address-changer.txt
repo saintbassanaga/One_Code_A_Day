@@ -1,0 +1,8 @@
+The IP Address swapper :
+
+It's an algorithm that localy made up the Ip addresstion to change Identity into Internet.
+
+	1 - Get the current Ip address and determine his class
+	2 - Drive into Address class and ignoring MAC Address.
+	3 - Generating another Ip address by creating a sort of envelop where the data
+		is taken from the real Ip Address and drived to another one by the envelop.  
