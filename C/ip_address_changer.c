@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <cstring.h>
 #include <stdlib.h>
 /**
  * main - IP address changer wrote in c
